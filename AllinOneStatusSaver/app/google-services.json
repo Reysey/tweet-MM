@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840419858630",
+    "firebase_url": "https://allinonestatussaver-1c467-default-rtdb.firebaseio.com",
+    "project_id": "allinonestatussaver-1c467",
+    "storage_bucket": "allinonestatussaver-1c467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840419858630:android:67a7dcb9ab2457273cdfc7",
+        "android_client_info": {
+          "package_name": "com.rsdp.siviorluni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840419858630-vdljv09dnqrhvisgsiq8mnl7b4j3vr7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rsdp.siviorluni",
+            "certificate_hash": "9bb780ab32a799572eb31a7da9bf514f8fcfca30"
+          }
+        },
+        {
+          "client_id": "840419858630-90sac2hi7jnoq3m1aeic7lakmaqroctg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdqUuxHiXNcn6L5mm5lkxfoFnMJqCKlws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840419858630-90sac2hi7jnoq3m1aeic7lakmaqroctg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
